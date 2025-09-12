@@ -1,4 +1,10 @@
 # Hi there I am Sagar 👋
+<!-- Profile Section with Photo -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="180" height="180" style="border-radius:50%">
+</p>
+
+<h2 align="center">Hi there, I am Sagar 👋</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-panthangi-914706222)
 [![Naukri](https://img.shields.io/badge/Naukri-2C8EBB?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miles_andModules/)
