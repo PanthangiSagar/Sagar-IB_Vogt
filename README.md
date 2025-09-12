@@ -1,10 +1,9 @@
 # Hi there I am Sagar 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-panthangi-914706222)
-[![Schedule a Call](https://img.shields.io/badge/Schedule%20a%20Call-28A745?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/)  
-[![Certification Transcript](https://img.shields.io/badge/Certification%20Transcript-0052CC?style=for-the-badge&logo=microsoft&logoColor=white)](#)  
 [![Naukri](https://img.shields.io/badge/Naukri-2C8EBB?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://yourblog.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miles_andModules/)
+[![Microsoft Certifications](https://img.shields.io/badge/Microsoft%20Certifications-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/sagarpanthangi-3799/)
+
 
 
 
