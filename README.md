@@ -4,6 +4,8 @@
 [![Certification Transcript](https://img.shields.io/badge/Certification%20Transcript-0052CC?style=for-the-badge&logo=microsoft&logoColor=white)](#)  
 [![Naukri](https://img.shields.io/badge/Naukri-2C8EBB?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://yourblog.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miles_andModules/)
+
 
 
 ---
