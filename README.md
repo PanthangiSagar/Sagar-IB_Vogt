@@ -2,9 +2,8 @@
 (https:/www.linkedin.com/in/sagar-panthangi-914706222)  
 [![Schedule a Call](https://img.shields.io/badge/Schedule%20a%20Call-28A745?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/)  
 [![Certification Transcript](https://img.shields.io/badge/Certification%20Transcript-0052CC?style=for-the-badge&logo=microsoft&logoColor=white)](#)  
-[![E-Book Store](https://img.shields.io/badge/E--Book%20Store-FFA500?style=for-the-badge&logo=bookstack&logoColor=white)](#)  
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://yourblog.com)  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/)  
+
 
 ---
 
