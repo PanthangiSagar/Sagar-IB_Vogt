@@ -1,6 +1,5 @@
 # Hi there I am Sagar 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](%5Bwww.linkedin.com/in/sagar-panthangi-914706222%5D(https:/www.linkedin.com/in/sagar-panthangi-914706222)  
+(https:/www.linkedin.com/in/sagar-panthangi-914706222)  
 [![Schedule a Call](https://img.shields.io/badge/Schedule%20a%20Call-28A745?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/)  
 [![Certification Transcript](https://img.shields.io/badge/Certification%20Transcript-0052CC?style=for-the-badge&logo=microsoft&logoColor=white)](#)  
 [![E-Book Store](https://img.shields.io/badge/E--Book%20Store-FFA500?style=for-the-badge&logo=bookstack&logoColor=white)](#)  
